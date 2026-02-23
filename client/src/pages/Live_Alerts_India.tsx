@@ -1,10 +1,3 @@
-================================
-
-india
-
-
-
-
 import React, { useState, useEffect } from "react";
 import Navbar from "@/components/Navbar";
 import { Button } from "@/components/ui/button";
